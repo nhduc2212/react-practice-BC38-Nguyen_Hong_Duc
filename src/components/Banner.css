@@ -1,0 +1,20 @@
+.Banner{
+    width: 100%;
+    margin: auto;
+    max-width: 1280px;
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+
+}
+
+.Banner h1{
+    margin-top: 70px;
+    font-size: 80px;
+    font-weight: 300;
+}
+
+
+.Banner h2{
+    color: grey;
+font-size: 20px;
+line-height: 40px}
